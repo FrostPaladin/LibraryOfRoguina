@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lib/1.0.0": {
+      "type": "project",
+      "path": "../Lib/Lib.csproj",
+      "msbuildProject": "../Lib/Lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\79779\\.nuget\\packages\\": {},
+    "G:\\base folder\\stuff\\New folder (2)\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\base folder\\stuff\\Progstuff\\Projects\\Roguelike\\LibraryOfRoguina\\LibraryOfRoguina.csproj",
+      "projectName": "LibraryOfRoguina",
+      "projectPath": "G:\\base folder\\stuff\\Progstuff\\Projects\\Roguelike\\LibraryOfRoguina\\LibraryOfRoguina.csproj",
+      "packagesPath": "C:\\Users\\79779\\.nuget\\packages\\",
+      "outputPath": "G:\\base folder\\stuff\\Progstuff\\Projects\\Roguelike\\LibraryOfRoguina\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "G:\\base folder\\stuff\\New folder (2)\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\79779\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "G:\\base folder\\stuff\\dwnldos": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "G:\\base folder\\stuff\\Progstuff\\Projects\\Roguelike\\Lib\\Lib.csproj": {
+              "projectPath": "G:\\base folder\\stuff\\Progstuff\\Projects\\Roguelike\\Lib\\Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

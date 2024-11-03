@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryOfRoguina", "LibraryOfRoguina.csproj", "{634A7E0E-D9B5-4F19-A219-2F2A9127B7DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "..\Lib\Lib.csproj", "{C095B5E0-E924-4406-BFB5-53672DFE323E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{634A7E0E-D9B5-4F19-A219-2F2A9127B7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634A7E0E-D9B5-4F19-A219-2F2A9127B7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634A7E0E-D9B5-4F19-A219-2F2A9127B7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634A7E0E-D9B5-4F19-A219-2F2A9127B7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C095B5E0-E924-4406-BFB5-53672DFE323E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C095B5E0-E924-4406-BFB5-53672DFE323E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C095B5E0-E924-4406-BFB5-53672DFE323E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C095B5E0-E924-4406-BFB5-53672DFE323E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3DFFA1D-AF2B-4442-AC3B-3DEC34C989D0}
+	EndGlobalSection
+EndGlobal
