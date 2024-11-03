@@ -9,3 +9,15 @@ G:\base folder\stuff\Progstuff\Projects\Roguelike\Lib\obj\Release\net8.0\Lib.dll
 G:\base folder\stuff\Progstuff\Projects\Roguelike\Lib\obj\Release\net8.0\refint\Lib.dll
 G:\base folder\stuff\Progstuff\Projects\Roguelike\Lib\obj\Release\net8.0\Lib.pdb
 G:\base folder\stuff\Progstuff\Projects\Roguelike\Lib\obj\Release\net8.0\ref\Lib.dll
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\bin\Release\net8.0\Lib.deps.json
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\bin\Release\net8.0\Lib.dll
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\bin\Release\net8.0\Lib.pdb
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\obj\Release\net8.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\obj\Release\net8.0\Lib.AssemblyInfoInputs.cache
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\obj\Release\net8.0\Lib.AssemblyInfo.cs
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\obj\Release\net8.0\Lib.csproj.CoreCompileInputs.cache
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\obj\Release\net8.0\Lib.sourcelink.json
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\obj\Release\net8.0\Lib.dll
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\obj\Release\net8.0\refint\Lib.dll
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\obj\Release\net8.0\Lib.pdb
+G:\base folder\stuff\Progstuff\GitHub\LOR\LibraryOfRoguina\Roguelike\Lib\obj\Release\net8.0\ref\Lib.dll

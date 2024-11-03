@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\base folder\\stuff\\Progstuff\\Projects\\Roguelike\\Lib\\Lib.csproj",
+      "projectUniqueName": "G:\\base folder\\stuff\\Progstuff\\GitHub\\LOR\\LibraryOfRoguina\\Roguelike\\Lib\\Lib.csproj",
       "projectName": "Lib",
-      "projectPath": "G:\\base folder\\stuff\\Progstuff\\Projects\\Roguelike\\Lib\\Lib.csproj",
+      "projectPath": "G:\\base folder\\stuff\\Progstuff\\GitHub\\LOR\\LibraryOfRoguina\\Roguelike\\Lib\\Lib.csproj",
       "packagesPath": "C:\\Users\\79779\\.nuget\\packages\\",
-      "outputPath": "G:\\base folder\\stuff\\Progstuff\\Projects\\Roguelike\\Lib\\obj\\",
+      "outputPath": "G:\\base folder\\stuff\\Progstuff\\GitHub\\LOR\\LibraryOfRoguina\\Roguelike\\Lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "G:\\base folder\\stuff\\New folder (2)\\NuGetPackages"
