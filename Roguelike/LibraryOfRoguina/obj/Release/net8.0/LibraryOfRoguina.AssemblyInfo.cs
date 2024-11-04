@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryOfRoguina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5fe3ff04ce426505ed7b252a1a3424d1b925b5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b9e9189cd299df79b28e770291f97fdd29f95d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryOfRoguina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryOfRoguina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
